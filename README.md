@@ -1,6 +1,6 @@
 # Course Outcome 1 (CO1):
 • Review of python programming – Programs review the fundamentals of python
-(simple python programs ice breaker) – (at most one lab session)
+(simple python calculator) – (at most one lab session)
 
 • Matrix operations (using vectorization) and transformation using python and SVD
 using Python.
@@ -10,7 +10,6 @@ using Python.
 • Programs to handle data using pandas.
 
 # Course Outcome 2 (CO2)
-
 • Program to implement k-NN classification using any standard dataset available in the
 public domain and find the accuracy of the algorithm.
 
@@ -25,6 +24,7 @@ dataset available in the public domain and evaluate its performance.
 
 • Program to implement decision trees using any standard dataset available in the public
 domain and find the accuracy of the algorithm.
+
 • Program to implement k-means clustering technique using any standard dataset
 available in the public domain
 
@@ -39,5 +39,6 @@ in the public domain.
 
 Web Data Mining
 • Implement a simple web crawler (ensure ethical conduct).
+
 • Implement a program to scrap the web page of any popular website – suggested
 python package is scrappy (ensure ethical conduct)
